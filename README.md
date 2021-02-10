@@ -5,19 +5,14 @@ Blind Microblogging
 ### Brain Dump
 Twiitter launched in 2006 as a microblogging service where people could broadcast status updates to their followers in 140 characters or less.
 
-Certain celebrities huge influence and impact
-
-Mired by fake accounts, and accusations of being hijacked by bots run by foreign agents which shape public opinion and influence election results.
-
-Twitter has fed off celebrity culture, humanity's propensity to venerate a tiny subset of the population often for the most surface level characteristics and elevate them to a position of influence where their opinions in areas where they have no special insight
-
-Or we give credence to a celebrity who has a high status for their acheivements in one particular domain, and  
-
-Abuse, trolling...
-
-Controversial deplatforming
-
-Echo Chamber
+#### So what is wrong with Twitter and its clones?
+* The platforms are rife with abusive attacks and trolling
+* People being deplatformed for having the 'wrong' opinion on things - if the US President can be deplatformed then we are all vulnerable
+* The platforms become an echo chamber where through their following choices and algorythmic suggestions, people are only exposed to opinions which confirm their own biases
+* A small propotion of users have an assymetric power of reach, influence and impact due to their followership or celebrity status, rather than through the truth or insight in what they have to say say.  Valuable input from people with low reach (followership) cannot get the readership it might deserve.
+* The platforms are mired by fake accounts, and accusations of being hijacked by bots run by foreign agents which shape public opinion and influence election results.
+* The platforms themselves have evolved to have particular political leanings, or at least the perception of political bias based on the views of their user base or the policies the platforms have implemented.
+* The platforms have become a noisy mouthpiece for marketing messages and the promotion of brands
 
 
 
