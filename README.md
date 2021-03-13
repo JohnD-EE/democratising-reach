@@ -2,13 +2,13 @@
 
 ## 1. Why: Ensuring the smartest voices are heard
 
-#### Celebrity, wealth and tactics
+#### 1.1 Celebrity, wealth and tactics
 The number of people you can 'reach' and infulence on social media is largely determined by the size of your followership. Your followership on any given platform is determined by a range of factors. Your celebrety status, for example, will determine your ability to reach others and broadcast your views, regardless of their truthfuless. You may use your pre-existing wealth or eminence in the 'old media' world to brute force the growth of your followership. Or you may simply have the time and resources available to deploy those tactics most likely to influence the accumulation of followers - courting controversy, trolling, regurgitating BS, or pure unrelentic persistence.
 
-#### Signal from noise
+#### 1.2 Signal from noise
 We may also see a followership accrued throgh truthful, insightful, creative, thoughtful, humourous, convicial, and balanced argument. Content which informs, amuses, and provokes discussion. However, such content will not have sufficient reach if its creator does not have celebrity status, wealth, or the time and tactics to build an audience. Insightful gems of content are lost forever in the turbulent throthy seas of social media. 
 
-#### Aligning reach with quality
+#### 1.3 Aligning reach with quality
 Reach on social media platforms is proportionally related to celebrity, wealth and tactics rather than the quality of content. The essence of this proposal is to create a social media patform where reach is directily proportional to quality.
 
 ## 2. How: The mechanics of the platform
